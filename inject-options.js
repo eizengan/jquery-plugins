@@ -8,7 +8,7 @@
 (function($) {
   $.fn.injectOptions = function(items, settings) {
     settings= $.extend({}, $.fn.injectOptions.defaults, settings);
-    return this.append(items.map(item => {
+    return this.empty().append(items.map(item => {
       return $("<option>", {
         value: item[settings.value],
         disabled: item[settings.disabled] ? "disabled": undefined,
