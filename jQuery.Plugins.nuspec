@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>jQuery.Extensions</id>
+    <version>1.0.0</version>
+    <authors>Nate Eizenga</authors>
+    <owners>Metal Components, Inc.</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Extensions for jQuery</description>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+  <files>
+    <file src="content\**" target="content" />
+  </files>
+</package>
