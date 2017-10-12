@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>jQuery.Extensions</id>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <authors>Nate Eizenga</authors>
     <owners>Metal Components, Inc.</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
